@@ -1,0 +1,12 @@
+# 1. Ignore Frontend & Backend Node dependencies
+**/node_modules/
+**/dist/
+**/build/
+
+# 2. Ignore Python AI dependencies
+**/venv/
+**/__pycache__/
+**/*.pyc
+
+# 3. Ignore sensitive environment variables
+**/.env
